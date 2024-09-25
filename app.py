@@ -7,13 +7,20 @@ from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics.pairwise import cosine_similarity
 from openai import OpenAI
+import argparse
 
+# Set up argument parser
+parser = argparse.ArgumentParser(description='Use OpenAI API Key')
+parser.add_argument('--api-key', required=True, help='OpenAI API key')
+parser.add_argument('--openai-model', required=True, help='OpenAI API key')
+args = parser.parse_args()
+api_key = args.api_key
+openai.api_key = args.api_key
 # Set OpenAI context
-openai.api_key = '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'
 client = OpenAI(
   api_key=openai.api_key,
 )
-openai_model='gpt-4o-mini'
+openai_model=args.openai_model
 
 # Function to calculate cosine similarity between two embeddings
 def calculate_cosine_similarity(embedding1, embedding2):
