@@ -1,0 +1,5 @@
+Generate a list of assumptions or facts that need to be verified when discussing the use of Generative AI for automating job descriptions.
+What potential technological limitations of Generative AI should be considered?
+What clarifying questions should you ask about the business problem and solution concept to ensure the best outcome?
+After generating the startup plan, reflect on how the business problem was framed and whether there are any areas that should be clarified.
+What additional details could strengthen the plan’s action steps?
