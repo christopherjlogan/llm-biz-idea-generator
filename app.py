@@ -47,8 +47,8 @@ training_embedding = get_embeddings(client, training_text)
 
 # Get business idea
 print("Reading in business idea")
-with open('business_idea.txt', 'r', encoding='utf-8') as f:
-  initial_business_idea = f.read()
+print("Please enter the initial business idea:")
+initial_business_idea = input("> ")
 
 # Evaluating prompt catalogs
 print("Evaluating prompt catalogs")
