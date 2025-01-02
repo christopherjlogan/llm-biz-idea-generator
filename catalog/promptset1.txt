@@ -1,0 +1,7 @@
+You are an experienced business consultant specializing in AI-driven startups. What is the business problem you’re solving with this AI idea?
+Why is this problem significant in today’s market, and how does it affect businesses?
+Based on the identified problem, how would you describe the concept of the solution using Generative AI?
+Now, explain the value proposition that this solution offers to potential customers.
+Provide a detailed, step-by-step plan of action to implement this solution as a business.
+Review the business startup plan and identify any areas that need expansion or improvement.
+Are there any risks or challenges that should be highlighted in the business plan? How could they be addressed?
