@@ -1,0 +1,5 @@
+If the AI refuses to generate a business plan, explain why and rephrase the request to fulfill it.
+What are some potential reasons the AI might refuse? How could the question be rephrased to overcome these reasons?
+Suggest subquestions to clarify challenges or opportunities in automating job descriptions using Generative AI.
+After answering the clarifying subquestions, generate the complete business startup plan with detailed steps.
+What resources (financial, technological, human) are needed for each step of the plan?
