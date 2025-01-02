@@ -1,0 +1,5 @@
+Improve the question ‘What is the business problem and solution for using Generative AI?’ to make it more specific and focused.
+Assume the persona of an AI startup advisor. Based on your expertise, what is the next step to clarify the value proposition?
+What specific customer pain points does this value proposition address?
+Provide a step-by-step plan of action that outlines the process of implementing this AI business.
+Which stakeholders (investors, partners, customers) should be involved in each step of the plan?
