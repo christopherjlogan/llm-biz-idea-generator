@@ -1,0 +1,6 @@
+Automatically generate a business problem related to the idea of using Generative AI to automate job descriptions and candidate evaluations.
+Using the following structure: Concept of the solution, Value Proposition, and Plan of Action, create a business startup plan.
+Expand on how the AI will specifically handle job description generation versus candidate evaluation. Are these two parts treated differently?
+Reflect on the startup plan and suggest improvements.
+Refine the question: ‘What is the business problem?’ to make it more specific for this context.
+Now refine the value proposition to make it clear how this solution differentiates from competitors.
