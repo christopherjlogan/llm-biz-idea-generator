@@ -1,0 +1,5 @@
+Define a custom language to describe the business plan for automating job descriptions with Generative AI, focusing on business problem, solution, value proposition, and action plan.
+Using this custom language, automatically generate the full business startup plan.
+Does the generated output properly define how Generative AI interacts with HR personnel during candidate evaluation?
+Review the output and reflect on any missing details in the plan.
+How would you address scalability in this plan as the business grows?
