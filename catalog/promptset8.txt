@@ -1,0 +1,5 @@
+Limit the context to only relevant factors related to automating job descriptions with Generative AI. What is the business problem?
+Describe the solution concept using Generative AI, keeping the context focused.
+How will the AI adapt to different industries with varying job requirements?
+After generating the business startup plan, reflect on whether the output properly follows the restricted context and suggest improvements.
+What additional features could be added to enhance the AI solution within the context?
