@@ -1,0 +1,6 @@
+What questions should you ask to generate a complete business startup plan for automating job descriptions with Generative AI?
+Ask questions about the customer pain points, how Generative AI improves the process, and the potential market competition.
+Use the answers to these questions to generate a business plan with the following structure: Business Problem, Solution Concept, Value Proposition, Plan of Action.
+For the plan of action, explain the key milestones in product development and market entry.
+After generating the startup plan, reflect on whether all critical aspects of the business idea were addressed.
+What could be improved in terms of market strategy and scalability?
