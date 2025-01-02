@@ -1,0 +1,5 @@
+Generate a mental map of how Generative AI will automate job descriptions and candidate evaluations in a business.
+What are the main components or features that should be included in the AI system for this automation?
+Use the following structure to describe the business plan: Business Problem, Solution Concept, Value Proposition, and Plan of Action.
+In the plan of action, explain how the AI technology will be integrated into existing HR workflows.
+Reflect on whether the visualized plan effectively addresses the problem and suggest adjustments where necessary.
